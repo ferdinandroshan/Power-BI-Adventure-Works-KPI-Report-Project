@@ -79,13 +79,21 @@ This **4-page interactive Power BI report** is designed to help Adventure Works 
 ---
 
 **📌 Key Features Implemented:**
+
 ✔️ **Data Model (5+ Tables)**
+
 ✔️ **Power Query Data Transformation**
+
 ✔️ **Bookmarks**
+
 ✔️ **Drillthroughs**
+
 ✔️ **Parameters**
+
 ✔️ **DAX (Basic & Complex Formulas)**
+
 ✔️ **Conditional Formatting**
+
 ✔️ **Custom Tooltips**
 
 ---
