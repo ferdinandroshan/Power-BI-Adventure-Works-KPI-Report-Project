@@ -14,9 +14,13 @@ The **Adventure Works Power BI Report** is designed to provide **key business in
 As Adventure Works expands, stakeholders need **real-time visibility** into business performance. The traditional reporting methods were time-consuming and lacked **actionable insights**. This Power BI report aims to:
 
 ✅ **Provide a centralized dashboard** for tracking business KPIs.
+
 ✅ **Enable regional performance comparison** using map visualizations.
+
 ✅ **Identify high-value customers and analyze their behavior.**
+
 ✅ **Pinpoint product trends and anomalies** to refine sales strategies.
+
 ✅ **Enhance financial reporting** by visualizing revenue and profit margins.
 
 This project marks a **shift towards modern analytics**, allowing Adventure Works to stay **competitive and data-driven**. 📊
@@ -50,27 +54,27 @@ This **4-page interactive Power BI report** is designed to help Adventure Works 
 ➡️ High-level business insights for executives. Tracks all key metrics such as revenue, profit, orders & returns %. 
 ➡️ Included a custom tooltip to analyze categories. 
 
-![GIF]()
+![GIF](https://github.com/ferdinandroshan/Power-BI-Adventure-Works-KPI-Report-Project/blob/main/Additional%20Files%20%26%20Resources/Top%20KPIs%20Dashboard.gif)
 
 ### **Geographical Analysis Dashboard**
 
 ➡️ Regional sales comparison via map visualization.
 
-![GIF]()
+![GIF](https://github.com/ferdinandroshan/Power-BI-Adventure-Works-KPI-Report-Project/blob/main/Additional%20Files%20%26%20Resources/Geographical%20View.gif)
 
 ### **Drill-through Product Page** 
 
 ➡️ In-depth analysis of product performance across all key metrics. 
 ➡️ You can drill through to this page directly from the Top KPIs Dashboard. 
 
-![GIF]()
+![GIF](https://github.com/ferdinandroshan/Power-BI-Adventure-Works-KPI-Report-Project/blob/main/Additional%20Files%20%26%20Resources/Product%20Drill%20Through.gif)
 
 ### **Customer Insights**
 
 ➡️ Identifies high-value customers and trends.
 ➡️ In-depth analysis based on revenue per customer, total orders, etc. 
 
-![GIF]()
+![GIF](https://github.com/ferdinandroshan/Power-BI-Adventure-Works-KPI-Report-Project/blob/main/Additional%20Files%20%26%20Resources/Customer%20View.gif)
 
 ---
 
