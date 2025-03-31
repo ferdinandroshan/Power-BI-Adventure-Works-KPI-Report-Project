@@ -23,7 +23,7 @@ As Adventure Works expands, stakeholders need **real-time visibility** into busi
 
 ✅ **Enhance financial reporting** by visualizing revenue and profit margins.
 
-This project marks a **shift towards modern analytics**, allowing Adventure Works to stay **competitive and data-driven**. 📊
+This project marks a **shift towards modern analytics**, allowing Adventure Works to stay **competitive and data-driven**.
 
 ---
 
@@ -52,6 +52,7 @@ This **4-page interactive Power BI report** is designed to help Adventure Works 
 ### **Top KPIs Dashboard**
 
 ➡️ High-level business insights for executives. Tracks all key metrics such as revenue, profit, orders & returns %. 
+
 ➡️ Included a custom tooltip to analyze categories. 
 
 ![GIF](https://github.com/ferdinandroshan/Power-BI-Adventure-Works-KPI-Report-Project/blob/main/Additional%20Files%20%26%20Resources/Top%20KPIs%20Dashboard.gif)
@@ -65,6 +66,7 @@ This **4-page interactive Power BI report** is designed to help Adventure Works 
 ### **Drill-through Product Page** 
 
 ➡️ In-depth analysis of product performance across all key metrics. 
+
 ➡️ You can drill through to this page directly from the Top KPIs Dashboard. 
 
 ![GIF](https://github.com/ferdinandroshan/Power-BI-Adventure-Works-KPI-Report-Project/blob/main/Additional%20Files%20%26%20Resources/Product%20Drill%20Through.gif)
@@ -72,6 +74,7 @@ This **4-page interactive Power BI report** is designed to help Adventure Works 
 ### **Customer Insights**
 
 ➡️ Identifies high-value customers and trends.
+
 ➡️ In-depth analysis based on revenue per customer, total orders, etc. 
 
 ![GIF](https://github.com/ferdinandroshan/Power-BI-Adventure-Works-KPI-Report-Project/blob/main/Additional%20Files%20%26%20Resources/Customer%20View.gif)
