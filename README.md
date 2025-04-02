@@ -2,7 +2,7 @@
 
 ---
 
-## 📌Project Introduction:
+## Project Introduction:
 Adventure Works is a leading bicycle parts manufacturer. To **optimize sales strategies** and improve **business decision-making**, they required a **comprehensive Power BI report** that enables quick and actionable insights across different business dimensions.
 
 The **Adventure Works Power BI Report** is designed to provide **key business insights** by tracking crucial performance metrics such as **revenue, profits, orders, and returns**. This interactive report empowers **management and stakeholders** to make **data-driven decisions**, enhancing overall business performance.
@@ -27,7 +27,7 @@ This project marks a **shift towards modern analytics**, allowing Adventure Work
 
 ---
 
-## Step-by-step approach to the project:
+## 📌Step-by-step approach to the project:
 
 The following approach was implemented to develop the Power BI report:
 
