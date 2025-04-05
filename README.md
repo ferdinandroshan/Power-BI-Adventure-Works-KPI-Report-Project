@@ -2,6 +2,8 @@
 
 ---
 
+**Live Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiMDU0YjFkNzQtOGI4ZC00NzRmLWIwMjItZDBlZGU2Y2ZlMDY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ## Project Introduction:
 Adventure Works is a leading bicycle parts manufacturer. To **optimize sales strategies** and improve **business decision-making**, they required a **comprehensive Power BI report** that enables quick and actionable insights across different business dimensions.
 
